@@ -1,0 +1,17 @@
+pandas
+dataclasses 
+numpy 
+matplotlib
+seaborn
+tqdm 
+scipy 
+transformers
+accelerate
+bitsandbytes
+pytz
+PyYAML
+safetensors
+papermill
+ipykernel
+autoawq
+auto_gptq

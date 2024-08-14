@@ -1,0 +1,344 @@
+{
+    "en": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 9.976079940795898
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 9.977563858032227
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 9.935073852539062
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 9.898953437805176
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 9.9767484664917
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 9.974669456481934
+        }
+    },
+    "fr": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 23.90618896484375
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 23.93144416809082
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 23.540624618530273
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 23.57428550720215
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 23.90700340270996
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 23.889585494995117
+        }
+    },
+    "es": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 31.267955780029297
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 31.28879165649414
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 30.484130859375
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 30.657432556152344
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 31.243438720703125
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 31.293678283691406
+        }
+    },
+    "vi": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 52.0481071472168
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 52.211544036865234
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 49.356258392333984
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 53.4287223815918
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 52.07461166381836
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 52.23997497558594
+        }
+    },
+    "id": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 38.75418472290039
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 38.746559143066406
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 38.0743522644043
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 38.84591293334961
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 38.755882263183594
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 38.710845947265625
+        }
+    },
+    "zh": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 48.19941711425781
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 48.186073303222656
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 46.61190414428711
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 47.75288391113281
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 48.24342346191406
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 48.2393798828125
+        }
+    },
+    "ru": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 35.62729263305664
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 35.569183349609375
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 35.46664047241211
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 35.57228469848633
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 34.950347900390625
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 35.18235397338867
+        }
+    },
+    "uk": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 44.474952697753906
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 44.4292106628418
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 44.37702941894531
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 44.41275405883789
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 44.696109771728516
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 45.693145751953125
+        }
+    },
+    "hi": {
+        "mpq 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 588.8856811523438
+        },
+        "mpq 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpq",
+            "precision": 4,
+            "perplexity": 588.2280883789062
+        },
+        "mpqr 4 ln": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 587.7747192382812
+        },
+        "mpqr 4 random": {
+            "model": "Llama-2-7b-chat-hf",
+            "method": "mpqr",
+            "precision": 4,
+            "perplexity": 587.6380004882812
+        },
+        "twq 4 ln": {
+            "model": "llama_7b_twq_4bit_128g_combined",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 553.3176879882812
+        },
+        "twq 4 random": {
+            "model": "llama_7b_twq_4bit_128g_random",
+            "method": "twq",
+            "precision": 4,
+            "perplexity": 614.220458984375
+        }
+    }
+}

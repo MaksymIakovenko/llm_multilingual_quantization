@@ -69,17 +69,17 @@ MODELS_LN = [
 
 data_files = {
     "en": f"../../Eval/floresp-v2.0-rc.3/dev/dev.eng_Latn",
-    # "fr": f"../../Eval/floresp-v2.0-rc.3/dev/dev.fra_Latn",
+    "fr": f"../../Eval/floresp-v2.0-rc.3/dev/dev.fra_Latn",
     "ru": f"../../Eval/floresp-v2.0-rc.3/dev/dev.rus_Cyrl",
     "uk": f"../../Eval/floresp-v2.0-rc.3/dev/dev.ukr_Cyrl",
-    # "es": f"../../Eval/floresp-v2.0-rc.3/dev/dev.spa_Latn",
-    # "vi": f"../../Eval/floresp-v2.0-rc.3/dev/dev.vie_Latn",
-    # "id": f"../../Eval/floresp-v2.0-rc.3/dev/dev.ind_Latn",
+    "es": f"../../Eval/floresp-v2.0-rc.3/dev/dev.spa_Latn",
+    "vi": f"../../Eval/floresp-v2.0-rc.3/dev/dev.vie_Latn",
+    "id": f"../../Eval/floresp-v2.0-rc.3/dev/dev.ind_Latn",
     "hi": f"../../Eval/floresp-v2.0-rc.3/dev/dev.hin_Deva",
-    # "zh": f"../../Eval/floresp-v2.0-rc.3/dev/dev.cmn_Hans",
+    "zh": f"../../Eval/floresp-v2.0-rc.3/dev/dev.cmn_Hans",
 }
 LANGS = data_files.keys()
-LANGS = ["ru", "uk", "hi"]
+# LANGS = ["ru", "uk", "hi"]
 
 res_path = "../eval_results/perplexity/"
 RUN_NAME = "ppl_lang_neurons"
